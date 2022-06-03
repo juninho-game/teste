@@ -1,0 +1,60 @@
+.rsrs {
+    color: rgb(8, 8, 10);
+    
+}
+
+.p:hover {
+    color:rgb(12, 12, 12);
+    font-size: 30px;
+    
+}
+
+.p:active {
+    color: rgb(170, 159, 164);
+}
+
+p:focus {
+    color: rgb(11, 3, 19);
+}
+
+p {color: rgb(7, 6, 8);
+
+}
+
+
+.respeita {
+    color: rgba(243, 39, 165, 0.959);
+}
+
+.estilo {
+    font-size: 35px;
+     
+    
+}
+
+.luminha {
+    color: rgb(140, 4, 167);
+}
+.projeto {
+    background-color:rgb(248, 89, 187);
+}
+
+.sim {
+     display: inline;
+     margin: 30cm 10cm 30cm 10cm;
+     border: 3cm;
+     color: aqua;
+     font-size: 40px;
+     background-color: rgb(245, 37, 37)
+     
+ }                              
+
+.melhor {
+    margin: 1cm;
+    color: black;
+}
+
+.junior {
+    margin: 5cm;
+}
+
